@@ -23,8 +23,6 @@ project-root/
 │   └── preprocess.py          # Fungsi pra-pemrosesan data
 ├── app/
 │   └── app.py                 # (Opsional) Aplikasi sederhana untuk inferensi
-├── infografis/
-│   └── infographic.png        # Hasil infografis presentasi end-to-end solution
 ├── README.md                  # Dokumen ini
 ├── requirements.txt           # Daftar dependensi
 ```
